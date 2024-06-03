@@ -1,0 +1,102 @@
+@media (max-width:500px){
+    *{
+        overflow-x: hidden;
+    }
+
+    .carousel-item{
+        height: 50px;
+        font-size: 13px;
+        
+    }
+    .menu_adj{
+        font-size: 36px;
+        width: 90px;
+    }
+    .snitch_img_div{
+        width: 200px;
+        /* background-color: aqua;  */
+
+    }
+    .first_nav_bar_adj{
+        display: flex;
+        justify-content: space-around
+    }
+    .snitch_img{
+        width: 120px;
+        height: 30px;
+       
+
+        
+    }
+    .icons_divs{
+        display: none;
+    }
+    .media_icons{
+        display: block;
+        width: 150px;
+        height: 50px;
+        font-size: 23px;
+        /* background-color: blue; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-content: space-around
+    }
+    .content_img
+    {
+        width: 400px;
+        height: 400px;
+    }
+    .scnd_content{
+        width: 400px;
+        height: 140px;
+        /* background-color: blueviolet; */
+    }
+    .first_content{
+        height: 380px;
+    }
+    .button_div_adj{
+        width: 500px;
+        height: 50px;
+        /* background-color: aqua; */
+    }
+    .button_css{
+        width: 100px;
+        height: 40px;
+    }
+    .buttons_div{
+        width: 390px;
+        height: 70px;
+        /* background-color: rgb(235, 134, 4); */
+    }
+    .new_drops_items{
+        width: 380px;
+        height: 300px;
+        /* background-color: rgb(149, 224, 0); */
+        
+    }
+    .new_drops_items_adj{
+        width: 380px;
+        height: 300px;
+        /* background-color: blue; */
+    }
+    .card_img_adj{
+        width: 70px;
+    }
+    .card_1{
+        width: 70px;
+        height: 280px;
+        /* background-color: aqua; */
+        /* border: 1px solid black; */
+    }
+    .size_box{
+        width: 100px;
+        /* background-color: rgb(255, 38, 0); */
+    }
+    .size_box_button{
+        width: 16px;
+    }
+    .new_drops_items_adj2{
+        display: none;
+    }
+}
